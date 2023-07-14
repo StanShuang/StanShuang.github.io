@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.stan.jnitest",
+    "sha256_cert_fingerprints":
+    ["A6:21:95:9A:F8:C7:5C:6F:96:E4:8B:39:F5:37:5F:8D:DF:8B:93:DB:C0:11:BD:32:6E:D2:82:32:84:02:8C:2B"]
+  }
+}]
